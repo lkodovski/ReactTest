@@ -1,3 +1,4 @@
+//komentar
 export default function Student({ firstName, lastName }) {
   return (
     <div>
