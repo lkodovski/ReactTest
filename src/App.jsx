@@ -54,8 +54,9 @@ function App() {
     <div>
       {/* <Header /> */}
       <Student firstName="Teona" lastName="Naceva" />
-      <Teacher teacher="Mimioza Todorova" subject="Web design" />
-      <Content hedTitle="" />
+      <Teacher teacher="Mimoza Todorova" subject="Web design" />
+      <Student firstName="Evgenija" lastName="Damjanova" />
+      <Teacher teacher="Mira Taskova" subject="Matematika" />
     </div>
     // <div id="app" data-testid="app">
     //   <h1>Time to Practice</h1>
